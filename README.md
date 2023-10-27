@@ -2,9 +2,9 @@
 
 <sub>Sou estudante de ADS na Fatec Mogi Mirim</sub>
 
-### Linguagens que domino
+### Linguagens que tenho conhecimento
 
-| Linguagem   |
+| Linguagens   |
 |------------|
 | Python     |
 | Java       |
