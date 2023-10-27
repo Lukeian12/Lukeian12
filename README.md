@@ -11,6 +11,7 @@
 | C          |
 | Ruby       |
 | Node.js    |
+| VBA        |
 
 Feel free to reach out if you have any questions or want to collaborate on a project!
 
